@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco Carrillo</h1>
 <h3 align="center">I'm a software engineering student from Peru</h3>
 
-- *My current proyect:*
-- - [EasyCloud](https://app.easycloud.ga/home/)
-- - [IHotel](https://app.ihotel.ga/home)
-- *My email contact*
-- - **u202013943@upc.edu.pe**
+- **My current proyect:**
+- [EasyCloud](https://app.easycloud.ga/home/)
+- [IHotel](https://app.ihotel.ga/home)
+- **My email contact**
+- **u202013943@upc.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
