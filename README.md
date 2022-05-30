@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Franco Carrillo</h1>
-<h3 align="center">A passionate web developer from Peru</h3>
+h1 align="center">Hi 👋, I'm Franco Carrillo</h1>
+<h3 align="center">I'm a software engineering student from Peru</h3>
 
-- Hi, Im work in **EasyCloud**
+- *My current proyect:*
+- - [EasyCloud](https://app.easycloud.ga/home/)
+- - [IHotel](https://app.ihotel.ga/home)
+- *My email contact*
+- - **u202013943@upc.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/franco carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="franco carrillo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC__TrpzBJA5xUrUPMAKcMUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="franco carrillo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
