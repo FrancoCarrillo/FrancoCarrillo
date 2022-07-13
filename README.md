@@ -1,11 +1,6 @@
 <h1 align="center">I'm Franco Carrillo</h1>
 <h3 align="center">I'm a software engineering student from Peru</h3>
 
-<h3 align="left">Proyects:</h3>
-<ul>
-  <li><a href="https://app.easycloud.ga/home/" target="blank">EasyCloud</a></li>
-  <li><a href="https://app.ihotel.ga/home" target="blank">IHotel</a></li>
-</ul>
 <h3 align="left">Email Contact:</h3>
 <ul>
   <li>francocarrillo24@hotmail.com</li>
