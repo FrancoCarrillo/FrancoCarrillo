@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/franco-carrillo-bab4a41b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco carrillo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francocarrillo24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco carrillo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC__TrpzBJA5xUrUPMAKcMUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="franco carrillo" height="30" width="40" /></a>
 </p>
 
