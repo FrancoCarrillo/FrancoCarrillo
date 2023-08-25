@@ -1,5 +1,5 @@
 # 💫 About Me:
-:books: I'm currently learning mobile development with Jetpack Compose and Flutter<br>:question: Ask me about Angular, Vue, React, .NET, Spring Boot <br>:soccer: I love playing and watching soccer 
+:books: I'm currently learning IoT development <br>:question: Ask me about Angular, Vue, React, .NET, Spring Boot, Jetpack Compose and Flutter <br>:soccer: I love playing and watching soccer 
 
 
 ## 🌐 Socials:
