@@ -1,5 +1,5 @@
 # 💫 About Me:
-:books: I'm currently learning IoT development <br>:question: Ask me about Angular, Vue, React, .NET, Spring Boot, Jetpack Compose and Flutter <br>:soccer: I love playing and watching soccer 
+<br>:question: Ask me about frontend and backend frameworks <br>:soccer: I love playing and watching soccer 
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FrancoCarrillo&icon=0&color=1)](https://visitcount.itsvg.in)
