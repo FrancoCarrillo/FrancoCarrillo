@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>:question: Ask me about frontend and backend frameworks <br>:soccer: I love playing and watching soccer 
+<br>:question: Ask me about backend and automatizations <br>:soccer: I love playing and watching soccer and business flow automation
 
 
 ## 🌐 Socials:
